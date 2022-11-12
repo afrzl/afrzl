@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muh Nur Afrizal
-- 📫 I'm student at Informatics Dept. of Sebelas Maret University
+- 📫 I'm student at Statistics Computation Statistics Polytechnic STIS
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning any framework of PHP
 
